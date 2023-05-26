@@ -2,4 +2,7 @@ Third part in part3_branch
 New line
 EXTRA line for new branch
 This refers to subtest/subfile_part3.txt
-4TH TEST --> Pull updated main commits prior to pushing features branch --> Pulled main commit goes to local main or branch???
+4TH TEST (Pull main while growing feature branch) 
+
+--> LOCAL: Pull updated main branch commits from remote prior to pushing features branch -> main commit go to local main or branch???
+--> REMOTE: Newly added main commit while creating local feature_branch will cause merge conflicts???
